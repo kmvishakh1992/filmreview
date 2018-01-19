@@ -4,4 +4,4 @@ from __future__ import unicode_literals
 from django.shortcuts import render
 
 def post_list(request):
-    return render(request, 'home/home.html')
+    return render(request, 'home/index.html')
