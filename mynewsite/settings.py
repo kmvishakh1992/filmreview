@@ -26,7 +26,7 @@ SECRET_KEY = 'rw!07f4y5#=9l9=li05-=hxd2v$e7^am2%3ez9=5-)6=0c=*w_'
 DEBUG = True
 
 
-ALLOWED_HOSTS = ['filmreview.pythonanywhere.com',
+ALLOWED_HOSTS = ['filmreview.pythonanywhere.com','127.0.0.1',
 
 ]
 
